@@ -14,7 +14,7 @@ I would use Airtable to categorize and structure the data. Although if this is a
 
 I do not have to break down the categories itself every time. Dharma is dynamic and it changes with the context of each company. Therefore, for Beyond Meat or Impossible Foods, the categories look very different than a technology company and how it operates.
 
-You can pick companies from social investing indices and then use that as a jumping off point to add an extra layer of analysis.
+You can pick companies from [social investing indices](https://en.wikipedia.org/wiki/Socially_responsible_investing) and then use that as a jumping off point to add an extra layer of analysis. 
 
 **Categories:** This might include the following
 - Ahimsa or non-violence. Does the company contribute to violence towards animals or humans or slave-like conditions?
