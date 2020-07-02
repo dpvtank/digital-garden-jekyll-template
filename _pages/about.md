@@ -2,8 +2,7 @@
 layout: default
 title: About
 permalink: /about
+published: true
 ---
 
-*This is an about page.*
-
-Feel free to tell the world about what you love! 😍
+Get a good sense of my story [here](dtank.co/about).
