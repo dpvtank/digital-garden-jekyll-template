@@ -1,5 +1,6 @@
 ---
 title: What Have I Done So Far List
+published: true
 ---
 
 As part of the exercises in the Refuse to Choose! book, I am learning to embrace my seeker personality type. Here is a list of all the things I've done in my life, complete or incomplete, in no particular order.
@@ -68,4 +69,37 @@ As part of the exercises in the Refuse to Choose! book, I am learning to embrace
 - Drive for 8+ hours on a nirjala from Toronto to Boston without breaks.
 - Drive for 8+ hours from Chino to San Jose without breaks.
 - Live in Sarangpur.
+
+### Things that Interested Me
+_(even for a short time)_
+
+- Salesforce
+- Drawing
+- Amazon Cloud
+- Coding
+- Online Courses on Happiness
+- Twitter Growth
+- Exercise routines
+- Making YouTube videos
+- Filmmaking
+- Short story writing
+- Photography
+
+1. What was the most interesting and exciting part of this? 
+2. Why did you stop when you did?
+
+The rush of initial discover. Of making, of testing and tinkering. But then it got too serious. Then it got too regimented. Then it required intense amounts of focus to get done.
+
+**Playfulness had gone away.**
+
+Rewards:
+- Learning a new skill that can help me use a cool tool.
+- Drawing is the ability to make entire worlds come alive.
+- Coding is the ability to make things out of scratch.
+- Twitter is the ability to connect to anyone and everyone.
+- Exercise gave me novelty, and therefore was fun.
+- Filmmaking was pure discovery and creativity, it was pure play.
+- Short story writing was about imagination and play and emotions and fun.
+- Photography was about capturing the unseen.
+
 
